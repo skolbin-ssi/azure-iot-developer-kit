@@ -55,8 +55,14 @@ projects: "0, 3, 10"
       </ul>
     </span>
     <a href="https://devblogs.microsoft.com/iotdev/" class="item">Blog</a>
-    <a href="https://github.com/microsoft/devkit-sdk/releases/" class="version">v1.6.5/v1.9.11-preview</a>
+    <a href="https://github.com/microsoft/devkit-sdk/releases/" class="version">v2.0.0</a>
   </span>
+</div>
+
+<div class="banner">
+  <p>
+    Azure RTOS is now running on IoT DevKit, <a href="https://aka.ms/az3166-azrtos-getstarted" target="_blank">view more</a>.
+  </p>
 </div>
 
 <div class="header">
@@ -82,12 +88,12 @@ projects: "0, 3, 10"
   </div>
 </div>
 
-<div class="notification">
+<!-- <div class="notification">
   <div class="inner">
     <span class="badge orange" data-text="What's New"></span>
     8/23: Learn connect the DevKit to Azure IoT Central application within minutes via IoT Plug and Play &emsp; <a href="https://docs.microsoft.com/en-us/azure/iot-central/howto-connect-devkit-pnp">IoT Plug and Play</a>
   </div>
-</div>
+</div> -->
 
 <div class="benefits">
   <div class="inner">
@@ -195,6 +201,7 @@ projects: "0, 3, 10"
         </div>
       {% endfor %}
     </div>
+
   </div>
 </div>
 
